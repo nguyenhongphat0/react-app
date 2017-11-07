@@ -1,0 +1,1 @@
+A rejected react app with react router, node path and sass loader installed.
